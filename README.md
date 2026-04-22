@@ -106,3 +106,13 @@ Output: Interstellar, The Dark Knight, Shutter Island, Tenet…
 -> Understanding of similarity-based models
 
 -> Deployment of ML models using Streamlit
+
+<img width="1892" height="532" alt="home_landing_page" src="https://github.com/user-attachments/assets/8eb9f15b-3aed-4974-a648-6a0c6b927dbb" />
+
+<img width="1907" height="827" alt="dropdown_for_movie_selection" src="https://github.com/user-attachments/assets/31ab51e9-8939-46af-a02a-db636fb74c10" />
+
+<img width="1907" height="877" alt="Recommended_Movies" src="https://github.com/user-attachments/assets/4f692779-5dea-4ef3-afd2-d36760c714c4" />
+
+
+
+
